@@ -7,4 +7,4 @@ Welcome to the repository for my Data Science Internship projects. This reposito
 
 ## Project 1: Signify - Hand Sign Recognizer
 
-[Read more about Signify](Project%201%20(Signify)/README.md)
+[Read more about Signify]([Project%201%20(Signify)/README.md](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/edit/main/Project%201%20(Signify)/readme.md))
