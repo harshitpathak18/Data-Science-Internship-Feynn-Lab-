@@ -9,6 +9,7 @@ Welcome to the repository for my Data Science Internship projects. This reposito
 ### Project Architecture
 
 <img src="[https://feynnlabs.com/wp-content/uploads/2021/04/cropped-logo_coloured.jpg](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/Arch.png)" alt="Feynn Labs Logo" width="300"/>
+
 ![Architecture Diagram](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/Arch.png)
 
 ### Model Predictions
