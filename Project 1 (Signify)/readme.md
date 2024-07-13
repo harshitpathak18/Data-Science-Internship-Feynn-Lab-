@@ -21,3 +21,7 @@
   - Python for efficient model development and integration
 - **🖥️ User Interface:** 
   - Developed using cross-platform frameworks to ensure broad compatibility and a seamless user experience
+ 
+### Documentation
+For detailed documentation, refer to the [Project Report](path/to/your/report.pdf).
+
