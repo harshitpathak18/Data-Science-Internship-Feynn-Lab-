@@ -22,3 +22,4 @@
 - **🖥️ User Interface:** 
   - Developed using cross-platform frameworks to ensure broad compatibility and a seamless user experience
  
+![Architecture Diagram](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/Arch.png)
