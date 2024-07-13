@@ -5,6 +5,4 @@
 Welcome to the repository for my Data Science Internship projects. This repository contains all files, reports, and documentation related to my work during the internship. Throughout this internship, I have focused on developing practical applications using advanced data science and machine learning techniques. Each project aims to solve real-world problems, showcasing the skills and knowledge I have gained.
 
 
-## Project 1: Signify - Hand Sign Recognizer
-
-[Read more about Signify]([Project%201%20(Signify)/README.md](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/edit/main/Project%201%20(Signify)/readme.md))
+cat README.md Project\ 1\ \(Signify\)/README.md > NEW_README.md
