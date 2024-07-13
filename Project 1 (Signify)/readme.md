@@ -23,5 +23,5 @@
   - Developed using cross-platform frameworks to ensure broad compatibility and a seamless user experience
  
 ### Documentation
-For detailed documentation, refer to the [Project Report](Project%201%20(Signify)/report/Signify_AI_Product_Ideation.pdf).
+For detailed documentation, refer to the [Project Report](Project%201%20(Signify)/report/Signify_AI_Product_Ideation.pdf). 
 
