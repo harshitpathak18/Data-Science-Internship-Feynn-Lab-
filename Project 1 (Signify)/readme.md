@@ -1,6 +1,4 @@
 ## Project 1: Signify - Hand Sign Recognizer 
-### Overview
-
 **Signify** is the flagship project of my Data Science Internship, crafted to revolutionize communication for individuals with hearing or speech impairments. This cutting-edge app translates hand gestures into text in real-time, leveraging advanced machine learning algorithms and the Mediapipe library. Signify aims to bridge the communication gap, ensuring inclusivity and accessibility for all users.
 
 ### Features
