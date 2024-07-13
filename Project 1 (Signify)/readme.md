@@ -2,7 +2,20 @@
 **Signify** is the flagship project of my Data Science Internship, crafted to revolutionize communication for individuals with hearing or speech impairments. This cutting-edge app translates hand gestures into text in real-time, leveraging advanced machine learning algorithms and the Mediapipe library. Signify aims to bridge the communication gap, ensuring inclusivity and accessibility for all users.
 
 ### Architecture
+
 ![Architecture Diagram](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/Arch.png)
+
+
+### Output Predictions
+
+![A](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/a.png)
+
+![B](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/b.png)
+
+![C](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/c.png)
+
+![D](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/d.png)
+
 
 ### Features
 
