@@ -1,4 +1,3 @@
----
 ## Project 1: Signify - Hand Sign Recognizer 
 ### Overview
 
@@ -24,5 +23,3 @@
   - Python for efficient model development and integration
 - **🖥️ User Interface:** 
   - Developed using cross-platform frameworks to ensure broad compatibility and a seamless user experience
-
----
