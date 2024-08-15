@@ -4,7 +4,7 @@ Welcome to the repository for my Data Science Internship projects. This reposito
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Project 1: Signify - Hand Sign Recognizer [Link](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/tree/main/Project%201%20(Signify))
+### Project 1: [Signify - Hand Sign Recognizer](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/tree/main/Project%201%20(Signify))
 
 **Signify** is the flagship project of my Data Science Internship, crafted to revolutionize communication for individuals with hearing or speech impairments. This cutting-edge app translates hand gestures into text in real-time, leveraging advanced machine learning algorithms and the Mediapipe library. Signify aims to bridge the communication gap, ensuring inclusivity and accessibility for all users.
 
@@ -19,7 +19,7 @@ Welcome to the repository for my Data Science Internship projects. This reposito
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Project 2: Indian Electric Vehicle Market Segmentation [Link](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/tree/main/Project%202.1%20-%20EV%20Market%20Segmentation)
+### Project 2: [Indian Electric Vehicle Market Segmentation ](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/tree/main/Project%202.1%20-%20EV%20Market%20Segmentation)
 
 #### Overview
 This project focuses on segmenting the Indian Electric Vehicle (EV) market and developing a targeted entry strategy for an EV startup. The goal is to identify promising customer segments, profile them, and customize the marketing mix for optimal market penetration.
