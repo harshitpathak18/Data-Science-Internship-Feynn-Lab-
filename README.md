@@ -14,8 +14,6 @@ Welcome to the repository for my Data Science Internship projects. This reposito
 #### Model Predictions
   ![A](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/a.png)
   ![B](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/b.png)
-  ![C](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/c.png)
-  ![D](https://github.com/harshitpathak18/Data-Science-Internship-Feynn-Lab-/blob/main/Project%201%20(Signify)/images/d.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
